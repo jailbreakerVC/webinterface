@@ -1,0 +1,1004 @@
+{
+  "meta": {
+    "command": {
+      "output": false,
+      "query": "OWASP"
+    },
+    "error": null
+  },
+  "output": {
+    "results": [
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=88347aa62b9bbde9JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTI0Ng&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9vd2FzcC5vcmcvd3d3LXByb2plY3QtdG9wLXRlbi8&ntb=1",
+        "c": "https://owasp.org › www-project-top-ten",
+        "d": "WebThe OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web …",
+        "t": "OWASP Top Ten | OWASP Foundation"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=a7f1483292c458dbJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTI2Nw&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuY2xvdWRmbGFyZS5jb20vbGVhcm5pbmcvc2VjdXJpdHkvdGhyZWF0cy9vd2FzcC10b3AtMTAv&ntb=1",
+        "c": "https://www.fortinet.com › resources › cybergl...",
+        "d": "WebThe OWASP Top 10 is a report, or “awareness document,” that outlines security concerns around web application security. It is regularly updated to ensure it constantly features …",
+        "t": "What is OWASP? What is the OWASP Top 10? | Cloudflare"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=21bbbc153b2d26bfJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTI5Ng&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvT1dBU1A&ntb=1",
+        "c": "https://www.imperva.com › learn › application...",
+        "d": "WebDec 20, 2022 · OWASP Top 10 is a research project that offers rankings of and remediation advice for the top 10 most serious web application security dangers. The report is …",
+        "t": "OWASP - Wikipedia"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=9fbc7a6f93f0f421JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTMxNA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuZm9ydGluZXQuY29tL3Jlc291cmNlcy9jeWJlcmdsb3NzYXJ5L293YXNw&ntb=1",
+        "c": "https://www.geeksforgeeks.org › owasp-top-10-vulner...",
+        "d": "WebDec 11, 2020 · OWASP basically stands for the Open Web Application Security Project, it is a non-profit global online community consisting of tens of thousands of members and …",
+        "t": "What Is OWASP? What Is the OWASP Top 10? | Fortinet"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=caa56414343dc0ccJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTMzNA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuaW1wZXJ2YS5jb20vbGVhcm4vYXBwbGljYXRpb24tc2VjdXJpdHkvb3dhc3AtdG9wLTEwLw&ntb=1",
+        "c": "https://github.com › OWASP",
+        "d": "WebThe OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. The Mobile Application Security …",
+        "t": "What is OWASP | What are OWASP Top 10 Vulnerabilities …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=59350bffe4742c37JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTM1Ng&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuZ2Vla3Nmb3JnZWVrcy5vcmcvb3dhc3AtdG9wLTEwLXZ1bG5lcmFiaWxpdGllcy1hbmQtcHJldmVudGlvbnMv&ntb=1",
+        "c": "https://mas.owasp.org",
+        "d": "Web\"Define the industry standard for mobile application security.\" The OWASP Mobile Application Security (MAS) flagship project provides a security standard for mobile apps …",
+        "t": "OWASP Top 10 Vulnerabilities And Preventions"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=7d7a295fea663719JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTM3NA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9naXRodWIuY29tL09XQVNQ&ntb=1",
+        "c": "https://dev.owasp.org › projects",
+        "d": "WebOWASP Projects are a collection of related tasks that have a defined roadmap and team members. Our projects are open source and are built by our community of volunteers - …",
+        "t": "OWASP · GitHub"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=6955b2b13c4a2560JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTM5Mg&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9tYXMub3dhc3Aub3JnLw&ntb=1",
+        "c": "https://www.synopsys.com › glossary › what-is-...",
+        "d": "WebThe OWASP Top 10 provides rankings of—and remediation guidance for—the top 10 most critical web application security risks. Leveraging the extensive knowledge and …",
+        "t": "Home - OWASP Mobile Application Security"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=5e0ed2c8fbea2cbbJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTQxMA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9kZXYub3dhc3Aub3JnL3Byb2plY3RzLw&ntb=1",
+        "c": "https://recruit.owasp.co.in",
+        "d": "Webregistration for recruitment quiz. name: year:",
+        "t": "Projects | OWASP"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=dcc85dd4a59c9759JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTQzMA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuc3lub3BzeXMuY29tL2dsb3NzYXJ5L3doYXQtaXMtb3dhc3AtdG9wLTEwLmh0bWw&ntb=1",
+        "c": "https://www.veracode.com › security › owasp-to",
+        "d": "WebThe OWASP Top 10 is a great foundational resource when you’re developing secure code. In our State of Software Security Volume 11, a scan of 130,000 applications found that …",
+        "t": "What Is the OWASP Top 10 and How Does It Work? | Synopsys"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=e380829345ea2cdfJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTQ0Nw&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9yZWNydWl0Lm93YXNwLmNvLmluLw&ntb=1",
+        "c": "https://training.owasp.org",
+        "d": "WebJan 12, 2022 · OWASP Trainings are highly sought, industry-respected, educational, career advancing, and fun. Join us throughout 2022 as we offer all new topics and skills through …",
+        "t": "OWASP"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=86401883814e2119JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTQ2NA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cudmVyYWNvZGUuY29tL3NlY3VyaXR5L293YXNwLXRvcC0xMA&ntb=1",
+        "c": "https://www.techtarget.com › searchsoftwarequali...",
+        "d": "WebThe OWASP Top 10 is a list of the 10 most important security risks affecting web applications. It is revised every few years to reflect industry and risk changes. The list has …",
+        "t": "OWASP Top 10 Vulnerabilities | Veracode"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=001b5a1e68a4e755JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTQ4Mw&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly90cmFpbmluZy5vd2FzcC5vcmcv&ntb=1",
+        "c": "https://cheatsheetseries.owasp.org › cheatsheets › HTTP_...",
+        "d": "WebHTTP Headers are a great booster for web security with easy implementation. Proper HTTP response headers can help prevent security vulnerabilities like Cross-Site Scripting, …",
+        "t": "OWASP Training Events 2021 | OWASP Foundation"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=e3d2df2d83c6d239JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTUwMQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cudGVjaHRhcmdldC5jb20vc2VhcmNoc29mdHdhcmVxdWFsaXR5L2RlZmluaXRpb24vT1dBU1A&ntb=1",
+        "c": "https://www.geeksforgeeks.org › what-is-owasp-and-i...",
+        "d": "WebAug 1, 2020 · OWASP stands for Open Web Application Security Project. It is an international non-profit organization that dedicates itself to the security of web …",
+        "t": "What is OWASP? What is the OWASP Top 10? All You Need to Know"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=490262278f3eac22JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTUxOA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9jaGVhdHNoZWV0c2VyaWVzLm93YXNwLm9yZy9jaGVhdHNoZWV0cy9IVFRQX0hlYWRlcnNfQ2hlYXRfU2hlZXQuaHRtbA&ntb=1",
+        "c": "https://mas.owasp.org › MASTG",
+        "d": "WebThe OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical …",
+        "t": "HTTP Headers - OWASP Cheat Sheet Series"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=f90bece46f226feaJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTUzOA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuZ2Vla3Nmb3JnZWVrcy5vcmcvd2hhdC1pcy1vd2FzcC1hbmQtaXRzLW1ham9yLXJpc2tzLw&ntb=1",
+        "c": "https://azure.microsoft.com › en-in › updates › p...",
+        "d": "WebJul 7, 2021 · We are announcing the public preview of the Open Web Application Security Project (OWASP) ModSecurity Core Rule Set 3.2 (CRS 3.2) for Azure Web Application …",
+        "t": "What is OWASP and its Major Risks? - GeeksforGeeks"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=2b1ddc0e10987a7aJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTU1Ng&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9tYXMub3dhc3Aub3JnL01BU1RHLw&ntb=1",
+        "c": "https://devops.com › what-is-owasp",
+        "d": "WebJan 11, 2021 · What You Need to Know About OWASP. The Open Web Application Security Project (OWASP) is an international nonprofit organization that educates software …",
+        "t": "OWASP MASTG - OWASP Mobile Application Security"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=59412ed38e10f2a6JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTU3NQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLWluL3VwZGF0ZXMvcHVibGljLXByZXZpZXctb2Ytb3dhc3AtY29yZS1ydWxlLXNldC0zMi1mb3ItYXp1cmUtd2ViLWFwcGxpY2F0aW9uLWZpcmV3YWxsLw&ntb=1",
+        "c": "https://www.sonarsource.com › solutions › securit...",
+        "d": "WebDedicated reports track project security against the OWASP Top 10 and CWE Top 25 standards. The Sonar Security Report facilitates communication by categorizing …",
+        "t": "Public preview of OWASP ModSecurity Core Rule Set 3.2 for Azure …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=475e16bf10d4af94JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTU5NA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9kZXZvcHMuY29tL3doYXQtaXMtb3dhc3Av&ntb=1",
+        "c": "https://mindmajix.com › what-is-owasp",
+        "d": "WebFeb 2, 2023 · The Open Web Application Security Project is known by the acronym OWASP. Although the name only refers to security for web apps, OWASP's focus is not …",
+        "t": "What Is OWASP? - DevOps.com"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=80b1dd0c9b5f9d73JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTYxNQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9jaGVhdHNoZWV0c2VyaWVzLm93YXNwLm9yZy9jaGVhdHNoZWV0cy9TZXNzaW9uX01hbmFnZW1lbnRfQ2hlYXRfU2hlZXQuaHRtbA&ntb=1",
+        "c": "https://www.spiceworks.com › .....",
+        "d": "WebMay 31, 2022 · OWASP Top 10: 2021-2022 vs 2017 Open Web Application Security Project (OWASP) is a non-profit organization that aims to improve software security. It is a one …",
+        "t": "Session Management - OWASP Cheat Sheet Series"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=4f553bfad15acb45JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTYzNw&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9zdWN1cmkubmV0L2d1aWRlcy9vd2FzcC10b3AtMTAtc2VjdXJpdHktdnVsbmVyYWJpbGl0aWVzLTIwMjAv&ntb=1",
+        "c": "https://snyk.io › learn › owasp-top-1...",
+        "d": "WebOWASP has recently shared the 2021 OWASP Top 10 where there are three new categories, four categories with naming and scoping changes, and some consolidation …",
+        "t": "OWASP Top 10 Security Vulnerabilities 2020 | Sucuri"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=355538bbee3a108aJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTY1NQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuc29uYXJzb3VyY2UuY29tL3NvbHV0aW9ucy9zZWN1cml0eS9vd2FzcC8&ntb=1",
+        "c": "https://resources.infosecinstitute.com › topic › introductio...",
+        "d": "WebMar 30, 2018 · OWASP ZAP overview. The OWASP Zed Attack Proxy is a Java-based tool that comes with an intuitive graphical interface, allowing web application security testers …",
+        "t": "SonarQube covers the OWASP Top 10 | SonarQube | Sonar"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=ef31d3e4626a1577JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTY3NQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9taW5kbWFqaXguY29tL3doYXQtaXMtb3dhc3A&ntb=1",
+        "c": "https://www.immuniweb.com › resources › owasp-t...",
+        "d": "WebOWASP Top 10 is not an official standard, it is just a white paper that is widely used by many organizations, vulnerability bounty programs, and cybersecurity experts to classify …",
+        "t": "What is OWASP | OWASP Tutorial for Beginners"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=7679bdbeb00f8a92JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTY5NA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuc3BpY2V3b3Jrcy5jb20vaXQtc2VjdXJpdHkvdnVsbmVyYWJpbGl0eS1tYW5hZ2VtZW50L2FydGljbGVzL293YXNwLXRvcC10ZW4tdnVsbmVyYWJpbGl0aWVzLw&ntb=1",
+        "c": "https://en.wikipedia.org › wiki › OWASP_ZAP",
+        "d": "WebOWASP ZAP (short for Zed Attack Proxy) is an open-source web application security scanner. It is intended to be used by both those new to application security as well as …",
+        "t": "OWASP Top 10 Vulnerabilities 2022 - Spiceworks"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=0a834259b69875bbJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTcxMg&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9zbnlrLmlvL2xlYXJuL293YXNwLXRvcC0xMC12dWxuZXJhYmlsaXRpZXMv&ntb=1",
+        "c": "https://www.mend.io › resources › blog › ...",
+        "d": "WebNov 29, 2018 · The OWASP Dependency-Check uses a variety of analyzers to build a list of Common Platform Enumeration (CPE) entries. CPE is a structured naming scheme, …",
+        "t": "OWASP Top 10 | OWASP Top 10 Vulnerabilities 2021 | Snyk"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=a841e86effae3713JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTczMg&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9yZXNvdXJjZXMuaW5mb3NlY2luc3RpdHV0ZS5jb20vdG9waWMvaW50cm9kdWN0aW9uLW93YXNwLXphcC13ZWItYXBwbGljYXRpb24tc2VjdXJpdHktYXNzZXNzbWVudHMv&ntb=1",
+        "c": "https://www.zaproxy.org › getting-started",
+        "d": "WebZed Attack Proxy (ZAP) is a free, open-source penetration testing tool being maintained under the umbrella of the Open Web Application Security Project (OWASP). ZAP is …",
+        "t": "Introduction to OWASP ZAP for web application security …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=116317ad20bc05d6JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTc1MA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuaW1tdW5pd2ViLmNvbS9yZXNvdXJjZXMvb3dhc3AtdG9wLXRlbi8&ntb=1",
+        "c": "https://twitter.com › owasp",
+        "d": "WebAug 29, 2008 · owasp Retweeted. Dependency-Track. @DependencyTrack. ·. This year, Dependency-Track is celebrating its 10 year anniversary helping organizations reduce …",
+        "t": "OWASP Top 10 Security Vulnerabilities in 2021 | ImmuniWeb"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=020b4b32a504b096JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTc2OQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvT1dBU1BfWkFQ&ntb=1",
+        "c": "https://www.zaproxy.org › download",
+        "d": "Web112 MB. Download. Most of the files contain the default set of functionality, and you can add more functionality at any time via the ZAP Marketplace. The core package contains the …",
+        "t": "OWASP ZAP - Wikipedia"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=6fa0a91b81e280ddJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTc4OA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cubWVuZC5pby9yZXNvdXJjZXMvYmxvZy9vd2FzcC1kZXBlbmRlbmN5LWNoZWNrLw&ntb=1",
+        "c": "https://www.indusface.com › blog › owasp-api1-2...",
+        "d": "WebFeb 9, 2023 · OWASP revealed that Broken Object Level Authorization is among the top 10 most critical API security risks list. It is number 1 on OWASP API Top 10, 2019. Even …",
+        "t": "OWASP Dependency Check: How Does It Work? | Mend"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=e7640a1847b774a7JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTgwOA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuemFwcm94eS5vcmcvZ2V0dGluZy1zdGFydGVkLw&ntb=1",
+        "c": "https://www.helpnetsecurity.com › 2021 › 09 › 24 › ow...",
+        "d": "WebSep 24, 2021 · The definitive OWASP Top 10 2021 list is out, and it shows that broken access control is currently the most serious web application security risk.. How is the list …",
+        "t": "OWASP ZAP – Getting Started"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=6e2d141a72ed55eaJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTgyOA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS9vd2FzcA&ntb=1",
+        "c": "https://sourceforge.net › projects › owaspbwa",
+        "d": "WebSep 29, 2016 · Download OWASP Broken Web Applications Project for free. Open Web Application Security Project (OWASP) Broken Web Applications Project, a collection of …",
+        "t": "owasp (@owasp) / Twitter"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=164394cc4a965024JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTg0Ng&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuemFwcm94eS5vcmcvZG93bmxvYWQv&ntb=1",
+        "c": "https://owasp.co.in",
+        "d": "WebThe team of OWASP Student Chapter, one of the gilt-edged coding society, involves ingenious mind solvers who are eager to make the world a better place to live in with their …",
+        "t": "OWASP ZAP – Download"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=6442236334210e94JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTg2NQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuaW5kdXNmYWNlLmNvbS9ibG9nL293YXNwLWFwaTEtMjAxOS1icm9rZW4tb2JqZWN0LWxldmVsLWF1dGhvcml6YXRpb24v&ntb=1",
+        "c": "https://www.linkedin.com › posts › cqueern_owa...",
+        "d": "WebDevSecOps and Security Automation advocate using Go, Docker, OpenFaaS and Kubernetes. Core-contributor to Defect Dojo. 5d. Finishing up January strong: The …",
+        "t": "What is Broken Object Level Authorization? | Indusface Blog"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=f70045784dde823dJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTg4NA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuaGVscG5ldHNlY3VyaXR5LmNvbS8yMDIxLzA5LzI0L293YXNwLXRvcC0xMC0yMDIxLw&ntb=1",
+        "c": "https://www.veracode.com › blog › intro-appsec...",
+        "d": "WebMay 26, 2014 · The Start of OWASP – A True Story. By Mark Curphey. tg. fb. tw. li. On January 15, 2002, at 5:22 p.m. PST, Bill Gates sent a memo —subject: “Trustworthy …",
+        "t": "OWASP Top 10 2021: The most serious web application security risks"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=f230e823d78a7083JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTkwNA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvb3dhc3Bid2Ev&ntb=1",
+        "c": "https://www.youtube.com › watch",
+        "d": "WebWeb Application Security and OWASP - Top 10 Security Flaws with ExamplesLEARN \"Big Picture\" of FULL-STACK, CLOUD, AWS, MICROSERVICES with DOCKER and …",
+        "t": "OWASP Broken Web Applications Project - SourceForge"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=6b97a4a0ecd4631aJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTkyMg&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9vd2FzcC5jby5pbi8&ntb=1",
+        "c": "https://finance.yahoo.com › news › edgio-sponso...",
+        "d": "WebFeb 2, 2023 · Company builds on OWASP Core Rule Set for advanced web security protection PHOENIX, February 02, 2023--(BUSINESS WIRE)--Edgio, Inc. (Nasdaq: …",
+        "t": "OWASP STUDENT CHAPTER, TIET"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=6c7eb8e323654339JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTkzOQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3Bvc3RzL2NxdWVlcm5fb3dhc3AtZXAtMjAyMy0wMS1hdWRpdC1jb21wbGlhbmNlLWFuZC1hdXRvbWF0aW9uLWFjdGl2aXR5LTcwMjY0MTQxMDY4MjgwNTQ1MjktbVVqYg&ntb=1",
+        "c": "https://www.benzinga.com › pressreleases › 23 ...",
+        "d": "WebFeb 2, 2023 · About OWASP CRS. The OWASP CRS is a set of generic attack detection rules for use with ModSecurity or compatible WAFs such as waflz. CRS aims to protect …",
+        "t": "Caleb Queern on LinkedIn: OWASP Ep 2023-01: Audit, Compliance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=2386a72a80531172JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTk1Nw&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cudmVyYWNvZGUuY29tL2Jsb2cvaW50cm8tYXBwc2VjL3N0YXJ0LW93YXNwLXRydWUtc3Rvcnk&ntb=1",
+        "c": "https://www.monsterindia.com › search › owasp-top-...",
+        "d": "WebOwasp Top 10 jobs in Gurgaon For Freshers Demographic Hr Services Delhi Gurgaon Gurugram 0 4 Years - Check out ️ latest Owasp Top 10 job vacancies in Gurgaon For …",
+        "t": "The Start of OWASP – A True Story | Veracode"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=d8c3b92a08e89821JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTk3NQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qNVB1WUZDUzBJdw&ntb=1",
+        "c": "https://www.linkedin.com › posts › aaronwperki...",
+        "d": "WebChatGPT Takes On: OWASP Top 10 (An Independent Research Project) - Article 2: A02-2021-Broken Access Control Aaron Perkins, M.S. 2w Explore topics",
+        "t": "Web Application Security and OWASP - Top 10 Security Flaws with ..."
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=9906ab19c3dfbe8bJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NTk5NA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL2VkZ2lvLXNwb25zb3JzLW93YXNwLW1vZHNlY3VyaXR5LWNycy0xNDAwMDA1NjMuaHRtbA&ntb=1",
+        "c": "https://www.meetup.com › owasp-lisboa-chapte...",
+        "d": "WebOWASP Lisboa chapter meetup on February 28th, 2023, at 18:00, sponsored by INESC-ID. The schedule is the following: 18:00 - Welcome notes by the OWASP Lisboa chapter …",
+        "t": "Edgio Sponsors OWASP ModSecurity CRS to Further Advance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=ba81f0fffc476ea2JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NjAxMw&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cuYmVuemluZ2EuY29tL3ByZXNzcmVsZWFzZXMvMjMvMDIvYjMwNjg3OTk5L2VkZ2lvLXNwb25zb3JzLW93YXNwLW1vZHNlY3VyaXR5LWNycy10by1mdXJ0aGVyLWFkdmFuY2UtYXBwbGljYXRpb24tc2VjdXJpdHktZGV2ZWxvcG1lbnQ&ntb=1",
+        "c": "https://github.com › OWASP › owasp-masvs...",
+        "d": "WebJan 27, 2023 · v1: Απαιτήσεις Αρχιτεκτονικής, Σχεδίασης και Μοντέλου Απειλών Στόχος Ελέγχου. Σε ένα τέλειο κόσμο η ασφάλεια θα λαμβανόταν υπόψη σε όλες τις φάσεις …",
+        "t": "Edgio Sponsors OWASP ModSecurity CRS to Further Advance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=b0329fa2f1345f9cJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NjAzMQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cubW9uc3RlcmluZGlhLmNvbS9zZWFyY2gvb3dhc3AtdG9wLTEwLWpvYnMtaW4tZ3VyZ2Fvbi1mb3ItZnJlc2hlcnMtZGVtb2dyYXBoaWMtaHItc2VydmljZXMtZGVsaGktZ3VyZ2Fvbi1ndXJ1Z3JhbS0wLTQteWVhcnM&ntb=1",
+        "c": "https://sanet.st › blogs › udemy1 › ow...",
+        "d": "WebJan 28, 2023 · OWASP stands for Open Web Application Security Project. And for decades, this group has been providing resources, conferences, and tools to educate and inform …",
+        "t": "Owasp Top 10 Jobs in Gurgaon For Freshers Demographic Hr …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=14d650c0a95b45f1JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NjA0OA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3Bvc3RzL2Fhcm9ud3BlcmtpbnNfY2hhdGdwdC1vd2FzcC1jeWJlcnNlY3VyaXR5LWFjdGl2aXR5LTcwMjQ3MjUwNDIxMzk3MTM1MzgtNkwwcQ&ntb=1",
+        "c": "https://vulners.com › openbugbounty › OBB...",
+        "d": "WebJan 16, 2023 · Following the coordinated and responsible vulnerability disclosure guidelines of the ISO 29147 standard, Open Bug Bounty has: a. verified the vulnerability and …",
+        "t": "Aaron Perkins, M.S. on LinkedIn: #chatgpt #owasp #cybersecurity"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=b58082fde15e7c2eJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NjA2NQ&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly93d3cubWVldHVwLmNvbS9vd2FzcC1saXNib2EtY2hhcHRlci9ldmVudHMvMjkxMTUzOTgyLw&ntb=1",
+        "c": "https://ebookee.com › Owasp-Top-10-Authen...",
+        "d": "Web2019-10-03 OWASP Top 10 #9 Components with Known Vulnerabilities and #10 Insufficient Logging and Monitoring - Removed. 2019-04-30 Lynda OWASP Top 10 1 Injection and 2 …",
+        "t": "#02 Building Up, Tue, Feb 28, 2023, 6:00 PM | Meetup"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=4dfa7619919e82efJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NjA4NA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9naXRodWIuY29tL09XQVNQL293YXNwLW1hc3ZzL2Jsb2IvbWFzdGVyL0RvY3VtZW50LWdyLzB4MDYtVjEtQXJjaGl0ZWN0dXJlX2Rlc2lnbl9hbmRfdGhyZWF0X21vZGVsbGluZ19yZXF1aXJlbWUubWQ&ntb=1",
+        "c": "https://www.imperva.com › learn › application...",
+        "d": "WebDec 20, 2022 · OWASP Top 10 is a research project that offers rankings of and remediation advice for the top 10 most serious web application security dangers. The report is founded on an agreement between security experts from around the globe. The risks are graded according to the severity of the vulnerabilities, the frequency of isolated security defects ...",
+        "t": "owasp-masvs/0x06-V1 …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=3e1f610019613ec3JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NjEwMw&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9zYW5ldC5zdC9ibG9ncy91ZGVteTEvb3dhc3BfdG9wX3dlYl9zZWN1cml0eV90cmFpbmluZ19fY3Jhc2hfY291cnNlXy40Mzc4NDk2Lmh0bWw&ntb=1",
+        "c": "https://azure.microsoft.com › en-in › updates › p...",
+        "d": "WebJul 7, 2021 · We are announcing the public preview of the Open Web Application Security Project (OWASP) ModSecurity Core Rule Set 3.2 (CRS 3.2) for Azure Web Application Firewall (WAF) deployments running on Application Gateway. This release offers improved security from web vulnerabilities, reduced false positives and improvements to performance.",
+        "t": "Owasp Top 10 Web Security Training || Crash Course"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=37f1496f3f1f59dfJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NjEyMg&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly92dWxuZXJzLmNvbS9vcGVuYnVnYm91bnR5L09CQjozMTU2Njg0&ntb=1",
+        "c": "https://www.synopsys.com › glossary › what-is-...",
+        "d": "WebThe OWASP Top 10 provides rankings of—and remediation guidance for—the top 10 most critical web application security risks. Leveraging the extensive knowledge and experience of the OWASP’s open community contributors, the report is based on a consensus among security experts from around the world. Risks are ranked according to the ...",
+        "t": "supror.com Cross Site Scripting vulnerability OBB-3156684"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=64982a7d75272457JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wYmEyZGRlZC02YzZmLTZkYTctMjQwNS1jZjVlNmQ5ZDZjNTImaW5zaWQ9NjE0MA&ptn=3&hsh=3&fclid=0ba2dded-6c6f-6da7-2405-cf5e6d9d6c52&u=a1aHR0cHM6Ly9lYm9va2VlLmNvbS9Pd2FzcC1Ub3AtMTAtQXV0aGVudGljYXRpb24tVnVsbmVyYWJpbGl0aWVzLTIwMjNfNTY2OTM1Ny5odG1s&ntb=1",
+        "c": "https://www.perforce.com › blog › kw › what-is...",
+        "d": "WebJan 12, 2022 · Globally, OWASP Top 10 is recognized by developers as the first step toward more secure coding. It provides a standardized application security awareness document, which is updated every year by a team of security experts around the world. This document is based on a broad consensus of the most critical security risks to web applications of ...",
+        "t": "Owasp Top 10 Authentication Vulnerabilities ~2023"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=5b9c0048507e08e9JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTE3MQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuaW1wZXJ2YS5jb20vbGVhcm4vYXBwbGljYXRpb24tc2VjdXJpdHkvb3dhc3AtdG9wLTEwLw&ntb=1",
+        "c": "https://www.sonarsource.com › solutions › securit...",
+        "d": "WebDedicated reports track project security against the OWASP Top 10 and CWE Top 25 standards. The Sonar Security Report facilitates communication by categorizing vulnerabilities in terms developers understand. Track compliance at Project or Portfolio level and differentiate Vulnerability fixes from Security Hotspot Review.",
+        "t": "What is OWASP | What are OWASP Top 10 Vulnerabilities | Imperva"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=70db155e3b395e31JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTE5MA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLWluL3VwZGF0ZXMvcHVibGljLXByZXZpZXctb2Ytb3dhc3AtY29yZS1ydWxlLXNldC0zMi1mb3ItYXp1cmUtd2ViLWFwcGxpY2F0aW9uLWZpcmV3YWxsLw&ntb=1",
+        "c": "https://www.mend.io › resources › blog › ...",
+        "d": "WebNov 29, 2018 · The OWASP Dependency-Check uses a variety of analyzers to build a list of Common Platform Enumeration (CPE) entries. CPE is a structured naming scheme, which includes a method for checking names against a system. The analyzer checks a combination of groupId, artifactId, and version (sometimes referred to as GAV) in the …",
+        "t": "Public preview of OWASP ModSecurity Core Rule Set 3.2 for …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=02ab4466915edcf6JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTIxMA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuc3lub3BzeXMuY29tL2dsb3NzYXJ5L3doYXQtaXMtb3dhc3AtdG9wLTEwLmh0bWw&ntb=1",
+        "c": "https://www.veracode.com › blog › intro-appsec...",
+        "d": "WebMay 26, 2014 · The Start of OWASP – A True Story. By Mark Curphey. tg. fb. tw. li. On January 15, 2002, at 5:22 p.m. PST, Bill Gates sent a memo —subject: “Trustworthy computing”—to everyone at Microsoft and its subsidiaries. “Trustworthy computing,” he wrote, “is the highest priority for all the work we are doing.”. It launched the SDL ...",
+        "t": "What Is the OWASP Top 10 and How Does It Work? | Synopsys"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=da6437874ad9421fJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTIzMQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cucGVyZm9yY2UuY29tL2Jsb2cva3cvd2hhdC1pcy1vd2FzcC10b3AtMTA&ntb=1",
+        "c": "https://www.quora.com › What-is-the-differe...",
+        "d": "WebAnswer (1 of 2): They are two kind-of-very-different-things, CVE is the Common Vulnerabilities and Exposures, which is a system that allows everyone to keep track of publicly known vulnerabilities. So, let’s say I am affected by a MS17–010 vulnerability (the one that WannaCry used to infect every...",
+        "t": "What Is OWASP? Overview + OWASP Top 10 | Perforce"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=0a9107744b87b998JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTI0OQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuc29uYXJzb3VyY2UuY29tL3NvbHV0aW9ucy9zZWN1cml0eS9vd2FzcC8&ntb=1",
+        "c": "https://www.zaproxy.org › blog",
+        "d": "WebJan 3, 2023 · OWASP ZAP – the Firefox of web security tools Posted Thursday September 13, 2012 909 Words The OWASP Zed Attack Proxy (otherwise known as ZAP) is a free security tool which you can use to find security vulnerabilities in web applications. My name is Simon Bennetts, and I am the ZAP Project Leader; there is also an international group …",
+        "t": "SonarQube covers the OWASP Top 10 | SonarQube | Sonar"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=3d0504c35a692f39JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTI2OA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cubWVuZC5pby9yZXNvdXJjZXMvYmxvZy9vd2FzcC1kZXBlbmRlbmN5LWNoZWNrLw&ntb=1",
+        "c": "https://snyk.io › learn › owasp-top-1...",
+        "d": "WebOWASP has recently shared the 2021 OWASP Top 10 where there are three new categories, four categories with naming and scoping changes, and some consolidation within the Top 10. The OWASP Top 10 is largely intended to raise awareness. However, since its debut in 2003, enterprises have used it as a de facto industry AppSec standard. …",
+        "t": "OWASP Dependency Check: How Does It Work? | Mend"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=f1df78187b50dcc2JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTI4OQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9naXRodWIuY29tL3phcHJveHk&ntb=1",
+        "c": "https://testbook.com › objective-questions...",
+        "d": "WebNov 7, 2022 · OWASP Top 10 is the list of the 10 most common application vulnerabilities. It also shows their risks, impacts, and countermeasures. Updated every three to four years, the latest OWASP vulnerabilities list was released in 2018. The Top 10 OWASP vulnerabilities are: Injection; Broken Authentication; Sensitive Data Exposure; XML …",
+        "t": "OWASP ZAP · GitHub"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=49047604d57c4e33JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTMxMA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cudmVyYWNvZGUuY29tL2Jsb2cvaW50cm8tYXBwc2VjL3N0YXJ0LW93YXNwLXRydWUtc3Rvcnk&ntb=1",
+        "c": "https://resources.infosecinstitute.com › topic › introductio...",
+        "d": "WebMar 30, 2018 · OWASP ZAP overview. The OWASP Zed Attack Proxy is a Java-based tool that comes with an intuitive graphical interface, allowing web application security testers to perform fuzzing, scripting, spidering, and proxying in order to attack web apps. Being a Java tool means that it can be made to run on most operating systems that support Java.",
+        "t": "The Start of OWASP – A True Story | Veracode"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=e6566abf3e02057aJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTMyNw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cucXVvcmEuY29tL1doYXQtaXMtdGhlLWRpZmZlcmVuY2UtYmV0d2Vlbi1DVkUtYW5kLU9XQVNQ&ntb=1",
+        "c": "https://www.techtarget.com › searchsoftwarequali...",
+        "d": "WebThe OWASP Top 10 is a list of the 10 most important security risks affecting web applications. It is revised every few years to reflect industry and risk changes. The list has descriptions of each category of application security risks and methods to remediate them. OWASP compiles the list from community surveys, contributed data about common ...",
+        "t": "What is the difference between CVE and OWASP? - Quora"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=1124064a6da32946JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTM0NQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuemFwcm94eS5vcmcvYmxvZy8&ntb=1",
+        "c": "https://www.indusface.com › blog › owasp-top-10...",
+        "d": "WebApr 6, 2020 · OWASP Top 10 seeks to create a more secure software development culture and improved web application security. It gives a good rundown of the critical web application security risks – vulnerabilities, weaknesses, misconfiguration, and bugs that organizations, developers, and security experts must keep an eye out for and proactively …",
+        "t": "OWASP ZAP – The ZAP Blog"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=bf3f2568c87aca4dJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTM2Mw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9zbnlrLmlvL2xlYXJuL293YXNwLXRvcC0xMC12dWxuZXJhYmlsaXRpZXMv&ntb=1",
+        "c": "https://training.owasp.org › register",
+        "d": "WebOWASP Training Events are perfect opportunities for you and your team to expand upon your application security knowledge. Come join us at any of our upcoming events, listed below - Next Event: OWASP Top 10 Developer Training with Jim ManicoDates: January 11 and continued on January 12, 2022. The virtual training class is an 8-hour course offered …",
+        "t": "OWASP Top 10 | OWASP Top 10 Vulnerabilities 2021 | Snyk"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=e72362c2ce75e2b1JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTM4Mg&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly90ZXN0Ym9vay5jb20vb2JqZWN0aXZlLXF1ZXN0aW9ucy9tY3Etb24tb3dhc3AtdG9wLTEwLXZ1bG5lcmFiaWxpdGllcy0tNWVlYTZhMGQzOTE0MGYzMGYzNjllMzBi&ntb=1",
+        "c": "https://patchstack.com › articles › security...",
+        "d": "WebJun 16, 2021 · Darius Sveikauskas. from patchstack. This blog post focuses on explaining the security by design principles according to The Open Web Application Security Project (OWASP). The cost of cybercrime continues to increase each year. In a single day, there are about 780,000 data records are lost due to security breaches, 33,000 new phishing …",
+        "t": "OWASP Top 10 Vulnerabilities MCQ [Free PDF] - Objective"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=74e673e5571d05b9JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTQwMQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9yZXNvdXJjZXMuaW5mb3NlY2luc3RpdHV0ZS5jb20vdG9waWMvaW50cm9kdWN0aW9uLW93YXNwLXphcC13ZWItYXBwbGljYXRpb24tc2VjdXJpdHktYXNzZXNzbWVudHMv&ntb=1",
+        "c": "https://sourceforge.net › projects › owaspbwa...",
+        "d": "WebAug 3, 2015 · Release notes for the Open Web Application Security Project (OWASP) Broken Web Applications Project, a collection of vulnerable web applications that is distributed on a Virtual Machine in VMware format compatible with their no-cost and commercial VMware products.",
+        "t": "Introduction to OWASP ZAP for web application security assessments"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=0227c26675c6bc54JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTQxOA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cudGVjaHRhcmdldC5jb20vc2VhcmNoc29mdHdhcmVxdWFsaXR5L2RlZmluaXRpb24vT1dBU1A&ntb=1",
+        "c": "https://www.zaproxy.org › download",
+        "d": "Web112 MB. Download. Most of the files contain the default set of functionality, and you can add more functionality at any time via the ZAP Marketplace. The core package contains the minimal set of functionality you need to get you started. The Windows and Linux versions require Java 11 or higher to run.",
+        "t": "What is OWASP? What is the OWASP Top 10? All You Need to …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=9f34c3d68ea82dceJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTQzNg&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuaW5kdXNmYWNlLmNvbS9ibG9nL293YXNwLXRvcC0xMC1taXRpZ2F0aW9uLXRlY2huaXF1ZXMv&ntb=1",
+        "c": "https://www.geeksforgeeks.org › what-is-owasp-and-i...",
+        "d": "WebAug 1, 2020 · OWASP stands for Open Web Application Security Project. It is an international non-profit organization that dedicates itself to the security of web applications. The core principles of OWASP includes their materials to be available freely and easily accessible on their website. Their motive is to make it possible for any user to improve …",
+        "t": "OWASP Top 10 Mitigation Techniques | Indusface Blog"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=fe02899371579b36JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTQ1NA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly90cmFpbmluZy5vd2FzcC5vcmcvcmVnaXN0ZXIv&ntb=1",
+        "c": "https://juice-shop.github.io › juice-shop",
+        "d": "WebOWASP Juice Shop covers all vulnerabilities from the latest OWASP Top 10 and more. Challenge Difficulty. There's something to do for beginners and veterans alike Score Board. Challenge progress is tracked on server-side Immediate Feedback. Solved challenges are announced as push notifications Restore your Progress",
+        "t": "Event Registration | OWASP Foundation"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=61be526670afdc61JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTQ3Mw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9wYXRjaHN0YWNrLmNvbS9hcnRpY2xlcy9zZWN1cml0eS1kZXNpZ24tcHJpbmNpcGxlcy1vd2FzcC8&ntb=1",
+        "c": "https://www.indusface.com › blog › owasp-api1-2...",
+        "d": "WebFeb 9, 2023 · OWASP revealed that Broken Object Level Authorization is among the top 10 most critical API security risks list. It is number 1 on OWASP API Top 10, 2019. Even large companies like Facebook, Uber, and Verizon, with thousands of engineers and dedicated security teams, have experienced BOLA attacks. Before diving into Broken Object Level …",
+        "t": "Security By Design Principles According To OWASP - Patchstack"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=7487855d351fc4c3JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTQ5Mg&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvb3dhc3Bid2EvZmlsZXMvMS4yLw&ntb=1",
+        "c": "https://www.immuniweb.com › resources › owasp-t...",
+        "d": "WebOWASP Top 10 is not an official standard, it is just a white paper that is widely used by many organizations, vulnerability bounty programs, and cybersecurity experts to classify the severity of weaknesses and security breaches. The rating was compiled on the basis of user posts and open discussions. OWASP Top 10 list is based on eight databases from seven …",
+        "t": "OWASP Broken Web Applications Project Files - SourceForge"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=2ad2b609c29d0df2JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTUxMA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuemFwcm94eS5vcmcvZG93bmxvYWQv&ntb=1",
+        "c": "https://osdn.net › projects › sfnet_ow...",
+        "d": "WebAug 3, 2015 · Open Web Application Security Project (OWASP) Broken Web Applications Project, a collection of vulnerable web applications that is distributed on a Virtual Machine in VMware format compatible with their no-cost and commercial VMware products.",
+        "t": "OWASP ZAP – Download"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=badf0186e80c1eb8JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTUyOQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuZ2Vla3Nmb3JnZWVrcy5vcmcvd2hhdC1pcy1vd2FzcC1hbmQtaXRzLW1ham9yLXJpc2tzLw&ntb=1",
+        "c": "https://mvnrepository.com › artifact › org.owas...",
+        "d": "WebThe OWASP Encoders package is a collection of high-performance low-overhead contextual encoders, that when utilized correctly, is an effective tool in preventing Web Application security vulnerabilities such as Cross-Site Scripting. License. BSD 3-clause. Tags.",
+        "t": "What is OWASP and its Major Risks? - GeeksforGeeks"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=98c254ccdf27a039JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTU0Nw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9qdWljZS1zaG9wLmdpdGh1Yi5pby9qdWljZS1zaG9wLw&ntb=1",
+        "c": "https://ebookee.com › Owasp-Top-10-Authen...",
+        "d": "Web2019-10-03 OWASP Top 10 #9 Components with Known Vulnerabilities and #10 Insufficient Logging and Monitoring - Removed. 2019-04-30 Lynda OWASP Top 10 1 Injection and 2 Broken Authentication -XQZT. 2019-04-11 Lynda OWASP Top 10 1 Injection and 2 Broken Authentication -XQZT.",
+        "t": "OWASP Juice Shop - Probably the most modern and …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=312ea19a9c1fc345JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTU2Ng&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuaW5kdXNmYWNlLmNvbS9ibG9nL293YXNwLWFwaTEtMjAxOS1icm9rZW4tb2JqZWN0LWxldmVsLWF1dGhvcml6YXRpb24v&ntb=1",
+        "c": "https://vulners.com › openbugbounty › OBB...",
+        "d": "WebJan 18, 2023 · Following the coordinated and responsible vulnerability disclosure guidelines of the ISO 29147 standard, Open Bug Bounty has: a. verified the vulnerability and confirmed its existence; b. notified the website operator about its existence. Technical details of the vulnerability are currently hidden (\"On Hold\") to give the website operator/owner sufficient …",
+        "t": "What is Broken Object Level Authorization? | Indusface Blog"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=8878f6bbc4b3cb33JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTU4NA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuaW1tdW5pd2ViLmNvbS9yZXNvdXJjZXMvb3dhc3AtdG9wLXRlbi8&ntb=1",
+        "c": "https://vulners.com › openbugbounty › OBB...",
+        "d": "WebJan 15, 2023 · Following the coordinated and responsible vulnerability disclosure guidelines of the ISO 29147 standard, Open Bug Bounty has: a. verified the vulnerability and confirmed its existence; b. notified the website operator about its existence. Technical details of the vulnerability are currently hidden (\"On Hold\") to give the website operator/owner sufficient …",
+        "t": "OWASP Top 10 Security Vulnerabilities in 2021 | ImmuniWeb"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=f3d5ddca05239dc3JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTYwMw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9vc2RuLm5ldC9wcm9qZWN0cy9zZm5ldF9vd2FzcGJ3YS9yZWxlYXNlcy8&ntb=1",
+        "c": "https://finance.yahoo.com › news › edgio-sponso...",
+        "d": "WebFeb 2, 2023 · Company builds on OWASP Core Rule Set for advanced web security protection PHOENIX, February 02, 2023--(BUSINESS WIRE)--Edgio, Inc. (Nasdaq: EGIO), the platform of choice for speed, security and ...",
+        "t": "Download File List - OWASP Broken Web Applications Project"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=6a13706bb863fd85JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTYyMQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcub3dhc3AuZW5jb2Rlci9lbmNvZGVy&ntb=1",
+        "c": "https://stackoverflow.com › questions › 7531930...",
+        "d": "WebFeb 2, 2023 · I have configured modsecurity with nginx and included OWASP ModSecurity Core Rule Set (CRS) which is publicly available. It has a rule to prevent DoS attacks and the configuration file is \"REQUEST-912-DOS-PROTECTION.conf\". I tried with some DoS tools to check and it didn't block the traffic. I need to prevent DoS attacks on nginx.",
+        "t": "Maven Repository: org.owasp.encoder » encoder"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=10a453662e165664JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTYzOQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9lYm9va2VlLmNvbS9Pd2FzcC1Ub3AtMTAtQXV0aGVudGljYXRpb24tVnVsbmVyYWJpbGl0aWVzLTIwMjNfNTY2OTM1Ny5odG1s&ntb=1",
+        "c": "https://sanet.st › blogs › udemy1 › ow...",
+        "d": "WebJan 28, 2023 · OWASP stands for Open Web Application Security Project. And for decades, this group has been providing resources, conferences, and tools to educate and inform technology professionals about security best practices.We'll look at what those vulnerabilities are and discuss some of the implications for your organization and what …",
+        "t": "Owasp Top 10 Authentication Vulnerabilities ~2023"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=204e0773ce09dd8cJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTY1OA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly92dWxuZXJzLmNvbS9vcGVuYnVnYm91bnR5L09CQjozMTU4MjA3&ntb=1",
+        "c": "https://www.linkedin.com › posts › cqueern_owa...",
+        "d": "WebDevSecOps and Security Automation advocate using Go, Docker, OpenFaaS and Kubernetes. Core-contributor to Defect Dojo. 5d. Finishing up January strong: The OWASP® Foundation Podcast just released ...",
+        "t": "infoentrepreneurs.org Cross Site Scripting vulnerability OBB-3158207"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=f0472429c4e02982JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTY3Nw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly92dWxuZXJzLmNvbS9vcGVuYnVnYm91bnR5L09CQjozMTU0Mjgz&ntb=1",
+        "c": "https://www.symbianize.ph › threads › owasp-top...",
+        "d": "WebFeb 2, 2023 · Leveraging the extensive knowledge and experience of the OWASP's open community contributors, the report is based on a consensus among security experts from around the world.What is broken authentication?Broken authentication is a widely used term reflecting a combination of vulnerabilities related to authentication and flawed …",
+        "t": "doctorsyou.com Cross Site Scripting vulnerability OBB-3154283"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=3132ae2b7b8c712fJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTY5Ng&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL2VkZ2lvLXNwb25zb3JzLW93YXNwLW1vZHNlY3VyaXR5LWNycy0xNDAwMDA1NjMuaHRtbA&ntb=1",
+        "c": "https://cyberrisk-countermeasures.info › 2020 › 11 › 19 › th...",
+        "d": "WebNov 19, 2020 · The OWASP TOP 10 – The Broken Access Controls. Access control enforces policy and rules so that a user cannot act outside of their intended permissions. The absence of controls or failures of such controls typically leads to unauthorized information disclosure, modification or destruction of data, or performing a business …",
+        "t": "Edgio Sponsors OWASP ModSecurity CRS to Further Advance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=e0ea2e58d862e9b8JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTcxNw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzUzMTkzMDYvZG9lcy1vd2FzcC1jcnMtcHJldmVudC1kb3MtYXR0YWNrcw&ntb=1",
+        "c": "https://www.benzinga.com › pressreleases › 23 ...",
+        "d": "WebFeb 2, 2023 · About OWASP CRS. The OWASP CRS is a set of generic attack detection rules for use with ModSecurity or compatible WAFs such as waflz. CRS aims to protect web applications from a wide range of ...",
+        "t": "nginx - Does OWASP CRS prevent DoS attacks - Stack Overflow"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=58be290bda57448bJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTczNg&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9zYW5ldC5zdC9ibG9ncy91ZGVteTEvb3dhc3BfdG9wX3dlYl9zZWN1cml0eV90cmFpbmluZ19fY3Jhc2hfY291cnNlXy40Mzc4NDk2Lmh0bWw&ntb=1",
+        "c": "https://www.f5.com › company › events › ...",
+        "d": "WebSubmit. Hindsight is 20/20. That holds true for the OWASP Top 10, the threat awareness report that details the most critical security risks to web applications each year. Traditional methods for security controls are lagging behind the need to deploy production-ready apps for continuous deployment. Join us in discussing the real-world impact of ...",
+        "t": "Owasp Top 10 Web Security Training || Crash Course"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=7e7da368e92dfb95JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTc1Mw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3Bvc3RzL2NxdWVlcm5fb3dhc3AtZXAtMjAyMy0wMS1hdWRpdC1jb21wbGlhbmNlLWFuZC1hdXRvbWF0aW9uLWFjdGl2aXR5LTcwMjY0MTQxMDY4MjgwNTQ1MjktbVVqYg&ntb=1",
+        "c": "https://stackoverflow.com › questions › 7529742...",
+        "d": "WebJan 31, 2023 · CSP Alerts by OWASP even though CSP header is added. I am auto testing an ASP.NET web application for vulnerabilities using OWASP ZAP 2.12.0. It is raising some CSP alerts which I don't know why because CSP header is added in the Web.config. Need help to address raised alerts.",
+        "t": "Caleb Queern on LinkedIn: OWASP Ep 2023-01: Audit, Compliance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=d1d5e3fe40e49abcJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTc3MQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuc3ltYmlhbml6ZS5waC90aHJlYWRzL293YXNwLXRvcC0xMC1hdXRoZW50aWNhdGlvbi12dWxuZXJhYmlsaXRpZXMtMjAyMy4yNTM1MzQv&ntb=1",
+        "c": "https://www.linkedin.com › posts › hj-70764319...",
+        "d": "WebWeb Pentest with Chatgpt Assistance In this article, we will discuss the advantages and disadvantages of chatgpt performances against the top 10 owasp in cybersecurity. #chatgpt #cybersecurity # ...",
+        "t": "Owasp Top 10 - Authentication Vulnerabilities ~2023"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=cfccdd92081b137fJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTc5MA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9jeWJlcnJpc2stY291bnRlcm1lYXN1cmVzLmluZm8vMjAyMC8xMS8xOS90aGUtb3dhc3AtdG9wLTEwLXRoZS1icm9rZW4tYWNjZXNzLWNvbnRyb2xzLw&ntb=1",
+        "c": "https://vurbl.com › listen › owasp-shar...",
+        "d": "WebThe OWASP NYC/NJ chapters are trying something new at the December 7th meeting: two projects will make pitches to a crowd of 300, with two angel investors in attendance. In this OWASP 24/7 broadcast, I talk with Tom Brennan, event organizer, and the two people who will be pitching their projects. Listen in to see if this is something you might want to do for …",
+        "t": "The OWASP TOP 10 – The Broken Access Controls – Cyber Risk ..."
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=6380181e17d12619JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTgwOQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuYmVuemluZ2EuY29tL3ByZXNzcmVsZWFzZXMvMjMvMDIvYjMwNjg3OTk5L2VkZ2lvLXNwb25zb3JzLW93YXNwLW1vZHNlY3VyaXR5LWNycy10by1mdXJ0aGVyLWFkdmFuY2UtYXBwbGljYXRpb24tc2VjdXJpdHktZGV2ZWxvcG1lbnQ&ntb=1",
+        "c": "https://www.meetup.com › owasp-lisboa-chapte...",
+        "d": "WebOWASP Lisboa chapter meetup on February 28th, 2023, at 18:00, sponsored by INESC-ID. The schedule is the following: 18:00 - Welcome notes by the OWASP Lisboa chapter leadership team 18:15 - Surface Security: The experience so far and the road ahead by Gustavo Silva 19:00 - Is it private, is it public? Dependency Confusion by Francisco Santos",
+        "t": "Edgio Sponsors OWASP ModSecurity CRS to Further Advance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=bdaced49e53d4d4bJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTgyNw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuZjUuY29tL2NvbXBhbnkvZXZlbnRzL3dlYmluYXJzL2RlZmVuZC1hZ2FpbnN0LW93YXNwLXRvcC0xMC10aHJlYXRz&ntb=1",
+        "c": "https://symbianize.ph › threads › owasp-api...",
+        "d": "WebLearn OWASP Top 10 2021 & OWASP Top 10 2017, Understand the most critical Security Vulnerabilities in Web Applications What you'll learn OWASP Top 10 2021 OWASP Top 10 2017 OWASP API Security Guidelines Practical tips and trics Real-life examples of vulnerabilities and prevention of vulnerabilities Secure Coding Practices with Java …",
+        "t": "Defend Against OWASP Top 10 Threats | F5"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=cae5076f61737080JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTg0OA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzUyOTc0MjAvY3NwLWFsZXJ0cy1ieS1vd2FzcC1ldmVuLXRob3VnaC1jc3AtaGVhZGVyLWlzLWFkZGVk&ntb=1",
+        "c": "https://www.silicon.co.uk › press-release › edg...",
+        "d": "WebFeb 2, 2023 · The OWASP CRS is a set of generic attack detection rules for use with ModSecurity or compatible WAFs such as waflz. CRS aims to protect web applications from a wide range of attacks, including ...",
+        "t": "CSP Alerts by OWASP even though CSP header is added"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=869a514b9a315bb5JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTg2NQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3Bvc3RzL2hqLTcwNzY0MzE5Ml91c2luZy1jaGF0Z3B0LWZvci1vd2FzcC10b3AtMTAtYnktanVsaWVuLWFjdGl2aXR5LTcwMjUxNjc3MDQ0OTU5NDc3NzYtWlhPcQ&ntb=1",
+        "c": "https://www.reddit.com › r › Hacking_Tutoria...",
+        "d": "WebIn this video walk-through, we covered the fourth part of OWASP Top 10 API Vulnerabilities including injection, improper documentation and lack of logging and monitoring. Video is here. comments sorted by Best Top New Controversial Q&A Add a Comment . More posts you may like.",
+        "t": "Tri A. on LinkedIn: Using Chatgpt for OWASP TOP 10 by JULIEN …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=4140d99a04b11469JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTg4Mg&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly92dXJibC5jb20vbGlzdGVuL293YXNwLXNoYXJrLXRhbmstY291bGQteW91LWNvbnZpbmNlLXNvbWVvbmUtdG8taW52ZXN0LWluLXlvdXItcHJvamVjdC1sOFd4RnBkMDVNLw&ntb=1",
+        "c": "https://www.reddit.com › r › owasp_juiceshop",
+        "d": "WebThe Real Housewives of Atlanta The Bachelor Sister Wives 90 Day Fiance Wife Swap The Amazing Race Australia Married at First Sight The Real Housewives of Dallas My 600-lb Life Last Week Tonight with John Oliver",
+        "t": "OWASP Shark Tank - Could You Convince Someone to Invest in …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=09d345ffe86d0672JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTkwMA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cubWVldHVwLmNvbS9vd2FzcC1saXNib2EtY2hhcHRlci9ldmVudHMvMjkxMTUzOTgyLw&ntb=1",
+        "c": "https://www.cyberdrive.in.th › owasp-top-10-คืออะไ...",
+        "d": "WebOWASP Top 10 คือรายการความเสี่ยงด้านความปลอดภัยของเว็บแอปพลิเคชันที่สำคัญที่สุด และได้รับการออกแบบมาเพื่อช่วยให้องค์กรต่างๆ ...",
+        "t": "#02 Building Up, Tue, Feb 28, 2023, 6:00 PM | Meetup"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=4abe82693634a6cfJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTkxOA&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly9zeW1iaWFuaXplLnBoL3RocmVhZHMvb3dhc3AtYXBpLXNlY3VyaXR5LXRvcC0xMC0yMDIxLXdpdGgtamF2YS1leGFtcGxlcy11ZGVteS4yNTI0NTEv&ntb=1",
+        "c": "https://www.perforce.com › blog › kw › what-is...",
+        "d": "WebJan 12, 2022 · Globally, OWASP Top 10 is recognized by developers as the first step toward more secure coding. It provides a standardized application security awareness document, which is updated every year by a team of security experts around the world. This document is based on a broad consensus of the most critical security risks to web applications of ...",
+        "t": "OWASP API Security Top 10 2021 with Java Examples | Udemy"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=2d9548ffdfec6b77JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTkzNw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuc2lsaWNvbi5jby51ay9wcmVzcy1yZWxlYXNlL2VkZ2lvLXNwb25zb3JzLW93YXNwLW1vZHNlY3VyaXR5LWNycy10by1mdXJ0aGVyLWFkdmFuY2UtYXBwbGljYXRpb24tc2VjdXJpdHktZGV2ZWxvcG1lbnQ&ntb=1",
+        "c": "https://trailhead.salesforce.com › .....",
+        "d": "WebOWASP stands for the Open Web Application Security Project. This open-source project spreads the word about application security vulnerabilities, best practices, and remediations. OWASP also provides free tools, libraries, and application programming interfaces (APIs) to help developers build secure and robust applications. Every few years, the project …",
+        "t": "Edgio Sponsors OWASP ModSecurity CRS to Further Advance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=13a15de94fbdfdbfJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTk1NQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0hhY2tpbmdfVHV0b3JpYWxzL2NvbW1lbnRzLzEwcW53MzIvb3dhc3BfdG9wXzEwX2FwaV92dWxuZXJhYmlsaXRpZXNfZXhwbGFpbmVkX3BhcnQv&ntb=1",
+        "c": "https://github.com › OWASP › ASVS",
+        "d": "WebThe primary aim of the OWASP Application Security Verification Standard (ASVS) Project is to provide an open application security standard for web apps and web services of all types. The standard provides a basis for designing, building, and testing technical application security controls, including architectural concerns, secure development ...",
+        "t": "OWASP Top 10 API Vulnerabilities Explained | Part Four | TryHackMe"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=891ef44273fc48bfJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTk3Mw&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL293YXNwX2p1aWNlc2hvcC8&ntb=1",
+        "c": "https://sucuri.net › guides › owasp-top-...",
+        "d": "WebApr 27, 2021 · The Top 10 OWASP vulnerabilities in 2021 are: Injection. Broken authentication. Sensitive data exposure. XML external entities (XXE) Broken access control. Security misconfigurations. Cross site scripting (XSS) Insecure deserialization.",
+        "t": "owasp_juiceshop - reddit"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=97442886b99f7130JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0wNWI0NDNlMi02YjQ4LTY1MDEtMTg1My01MTUxNmFiYTY0YjUmaW5zaWQ9NTk5MQ&ptn=3&hsh=3&fclid=05b443e2-6b48-6501-1853-51516aba64b5&u=a1aHR0cHM6Ly93d3cuY3liZXJkcml2ZS5pbi50aC9vd2FzcC10b3AtMTAtJWUwJWI4JTg0JWUwJWI4JWI3JWUwJWI4JWFkJWUwJWI4JWFkJWUwJWI4JWIwJWUwJWI5JTg0JWUwJWI4JWEzLSVlMCViOCU5NyVlMCViOCViMyVlMCViOSU4NCVlMCViOCVhMSVlMCViOCU5NiVlMCViOCViNiVlMCViOCU4NyVlMCViOCU5NSVlMCViOSU4OSVlMCViOCVhZCVlMCViOCU4NyVlMCViOCVhMyVlMCViOCViOS8&ntb=1",
+        "c": "https://www.cloudflare.com › learning › security...",
+        "d": "WebOWASP also maintains a separate, similar list for application programming interfaces (APIs), which are a crucial building block for most web applications. This list is the OWASP API Security Top 10. Broken Object Level Authorization: This refers to manipulation of object identifiers within a request to gain unauthorized access to sensitive data ...",
+        "t": "OWASP Top 10 คืออะไร ? ทำไมถึงต้องรู้ - CyberDrive"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=2394e270be6c889bJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTE2OQ&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cucGVyZm9yY2UuY29tL2Jsb2cva3cvd2hhdC1pcy1vd2FzcC10b3AtMTA&ntb=1",
+        "c": "https://www.zaproxy.org › getting-started",
+        "d": "WebZed Attack Proxy (ZAP) is a free, open-source penetration testing tool being maintained under the umbrella of the Open Web Application Security Project (OWASP). ZAP is designed specifically for testing web applications and is both flexible and extensible. At its core, ZAP is what is known as a “man-in-the-middle proxy.”.",
+        "t": "What Is OWASP? Overview + OWASP Top 10 | Perforce"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=7cfcd9deb3a9cb64JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTE4OQ&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly90cmFpbGhlYWQuc2FsZXNmb3JjZS5jb20vY29udGVudC9sZWFybi9tb2R1bGVzL3NlY3VyaXR5LXByaW5jaXBsZXMvbGVhcm4tdGhlLW93YXNwLXRvcC0xMA&ntb=1",
+        "c": "https://owasp.deteact.com › cheat › cheatsheets...",
+        "d": "WebThere are lots of resources on the internet about how to write regular expressions, including this site and the OWASP Validation Regex Repository. In summary, input validation should: Be applied to all input data, at minimum. Define the allowed set of characters to be accepted. Defines a minimum and maximum length for the data (e.g. {1,25}).",
+        "t": "Learn the OWASP Top 10 Unit | Salesforce Trailhead"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=6a8b3c2a2b15abbcJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTIwNw&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9naXRodWIuY29tL09XQVNQL0FTVlM&ntb=1",
+        "c": "https://www.veracode.com › blog › intro-appsec...",
+        "d": "WebMay 26, 2014 · The Start of OWASP – A True Story. By Mark Curphey. tg. fb. tw. li. On January 15, 2002, at 5:22 p.m. PST, Bill Gates sent a memo —subject: “Trustworthy computing”—to everyone at Microsoft and its subsidiaries. “Trustworthy computing,” he wrote, “is the highest priority for all the work we are doing.”. It launched the SDL ...",
+        "t": "GitHub - OWASP/ASVS: Application Security Verification Standard"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=c55ec5f17227b5e6JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTIzMA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9zdWN1cmkubmV0L2d1aWRlcy9vd2FzcC10b3AtMTAtc2VjdXJpdHktdnVsbmVyYWJpbGl0aWVzLTIwMjAv&ntb=1",
+        "c": "https://www.zaproxy.org › blog",
+        "d": "WebJan 3, 2023 · OWASP ZAP – the Firefox of web security tools Posted Thursday September 13, 2012 909 Words The OWASP Zed Attack Proxy (otherwise known as ZAP) is a free security tool which you can use to find security vulnerabilities in web applications. My name is Simon Bennetts, and I am the ZAP Project Leader; there is also an international group …",
+        "t": "OWASP Top 10 Security Vulnerabilities 2020 | Sucuri"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=b8d5db8cf6dc3e0dJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTI0OA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuY2xvdWRmbGFyZS5jb20vbGVhcm5pbmcvc2VjdXJpdHkvYXBpL293YXNwLWFwaS1zZWN1cml0eS10b3AtMTAv&ntb=1",
+        "c": "https://sourceforge.net › projects › owaspbwa",
+        "d": "WebSep 29, 2016 · Download OWASP Broken Web Applications Project for free. Open Web Application Security Project (OWASP) Broken Web Applications Project, a collection of vulnerable web applications that is distributed on a Virtual Machine in VMware format compatible with their no-cost and commercial VMware products.",
+        "t": "What is the OWASP API Security Top 10? | Cloudflare"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=99175c7eb89b4a9fJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTI3MA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuemFwcm94eS5vcmcvZ2V0dGluZy1zdGFydGVkLw&ntb=1",
+        "c": "https://ebookee.com › Owasp-Top-10-Authen...",
+        "d": "Web2019-10-03 OWASP Top 10 #9 Components with Known Vulnerabilities and #10 Insufficient Logging and Monitoring - Removed. 2019-04-30 Lynda OWASP Top 10 1 Injection and 2 Broken Authentication -XQZT. 2019-04-11 Lynda OWASP Top 10 1 Injection and 2 Broken Authentication -XQZT.",
+        "t": "OWASP ZAP – Getting Started"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=87fbc9f3d63ae795JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTI5OQ&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1yV0h2cDdyVWthOA&ntb=1",
+        "c": "https://www.indusface.com › blog › owasp-api1-2...",
+        "d": "WebFeb 9, 2023 · OWASP revealed that Broken Object Level Authorization is among the top 10 most critical API security risks list. It is number 1 on OWASP API Top 10, 2019. Even large companies like Facebook, Uber, and Verizon, with thousands of engineers and dedicated security teams, have experienced BOLA attacks. Before diving into Broken Object Level …",
+        "t": "2017 OWASP Top 10: Injection Attacks - YouTube"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=56ecebbc4e39a47fJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTMxNw&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9vd2FzcC5kZXRlYWN0LmNvbS9jaGVhdC9jaGVhdHNoZWV0cy9JbnB1dF9WYWxpZGF0aW9uX0NoZWF0X1NoZWV0Lmh0bWw&ntb=1",
+        "c": "https://www.simplerisk.com › blog › owasp-risk-r...",
+        "d": "WebOWASP: The OWASP Risk Rating Methodology was created by Jeff Williams, one of the Founders of the OWASP organization, as a means to easily and more accurately assess the likelihood and impact of a web application vulnerability. It's an application-centric play on the Classic Risk Rating described above, where the Likelihood is assessed based on Threat …",
+        "t": "Input Validation · OWASP Cheat Sheet Series - DeteAct"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=1d1b71f71ed73d98JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTMzOA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cudmVyYWNvZGUuY29tL2Jsb2cvaW50cm8tYXBwc2VjL3N0YXJ0LW93YXNwLXRydWUtc3Rvcnk&ntb=1",
+        "c": "https://www.linkedin.com › posts › cqueern_owa...",
+        "d": "WebDevSecOps and Security Automation advocate using Go, Docker, OpenFaaS and Kubernetes. Core-contributor to Defect Dojo. 5d. Finishing up January strong: The OWASP® Foundation Podcast just released ...",
+        "t": "The Start of OWASP – A True Story | Veracode"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=b5f428502b6ca80cJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTM1Nw&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuemFwcm94eS5vcmcvYmxvZy8&ntb=1",
+        "c": "https://finance.yahoo.com › news › edgio-sponso...",
+        "d": "WebFeb 2, 2023 · Company builds on OWASP Core Rule Set for advanced web security protection PHOENIX, February 02, 2023--(BUSINESS WIRE)--Edgio, Inc. (Nasdaq: EGIO), the platform of choice for speed, security and ...",
+        "t": "OWASP ZAP – The ZAP Blog"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=c5239320957eb260JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTM3Ng&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvb3dhc3Bid2Ev&ntb=1",
+        "c": "https://mvnrepository.com › artifact › org.owas...",
+        "d": "Web1. Java Encoder 188 usages. org.owasp.encoder » encoder BSD. The OWASP Encoders package is a collection of high-performance low-overhead contextual encoders, that when utilized correctly, is an effective tool in preventing Web Application security vulnerabilities such as Cross-Site Scripting. Last Release on Nov 8, 2020.",
+        "t": "OWASP Broken Web Applications Project - SourceForge"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=eb04d34b6d7b3e56JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTM5NA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9lYm9va2VlLmNvbS9Pd2FzcC1Ub3AtMTAtQXV0aGVudGljYXRpb24tVnVsbmVyYWJpbGl0aWVzLTIwMjNfNTY2OTM1Ny5odG1s&ntb=1",
+        "c": "https://www.benzinga.com › pressreleases › 23 ...",
+        "d": "WebFeb 2, 2023 · About OWASP CRS. The OWASP CRS is a set of generic attack detection rules for use with ModSecurity or compatible WAFs such as waflz. CRS aims to protect web applications from a wide range of ...",
+        "t": "Owasp Top 10 Authentication Vulnerabilities ~2023"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=9b7a88791e6c0107JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTQxMw&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuaW5kdXNmYWNlLmNvbS9ibG9nL293YXNwLWFwaTEtMjAxOS1icm9rZW4tb2JqZWN0LWxldmVsLWF1dGhvcml6YXRpb24v&ntb=1",
+        "c": "https://sanet.st › blogs › udemy1 › ow...",
+        "d": "WebJan 28, 2023 · OWASP stands for Open Web Application Security Project. And for decades, this group has been providing resources, conferences, and tools to educate and inform technology professionals about security best practices.We'll look at what those vulnerabilities are and discuss some of the implications for your organization and what …",
+        "t": "What is Broken Object Level Authorization? | Indusface Blog"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=657fb9390b14ba7fJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTQzMQ&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuc2ltcGxlcmlzay5jb20vYmxvZy9vd2FzcC1yaXNrLXJhdGluZy1tZXRob2RvbG9neS1hbmQtc2ltcGxlcmlzaw&ntb=1",
+        "c": "https://www.meetup.com › owasp-lisboa-chapte...",
+        "d": "WebOWASP Lisboa chapter meetup on February 28th, 2023, at 18:00, sponsored by INESC-ID. The schedule is the following: 18:00 - Welcome notes by the OWASP Lisboa chapter leadership team 18:15 - Surface Security: The experience so far and the road ahead by Gustavo Silva 19:00 - Is it private, is it public? Dependency Confusion by Francisco Santos",
+        "t": "The OWASP Risk Rating Methodology and SimpleRisk"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=9ddd325d9edd531fJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTQ0OA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3Bvc3RzL2NxdWVlcm5fb3dhc3AtZXAtMjAyMy0wMS1hdWRpdC1jb21wbGlhbmNlLWFuZC1hdXRvbWF0aW9uLWFjdGl2aXR5LTcwMjY0MTQxMDY4MjgwNTQ1MjktbVVqYg&ntb=1",
+        "c": "https://www.youtube.com › watch",
+        "d": "WebWeb Application Security and OWASP - Top 10 Security Flaws with ExamplesLEARN \"Big Picture\" of FULL-STACK, CLOUD, AWS, MICROSERVICES with DOCKER and KUBERNE...",
+        "t": "Caleb Queern on LinkedIn: OWASP Ep 2023-01: Audit, Compliance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=4799205c7110f7aaJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTQ2Ng&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9uZXdzL2VkZ2lvLXNwb25zb3JzLW93YXNwLW1vZHNlY3VyaXR5LWNycy0xNDAwMDA1NjMuaHRtbA&ntb=1",
+        "c": "https://vurbl.com › listen › owasp-shar...",
+        "d": "WebThe OWASP NYC/NJ chapters are trying something new at the December 7th meeting: two projects will make pitches to a crowd of 300, with two angel investors in attendance. In this OWASP 24/7 broadcast, I talk with Tom Brennan, event organizer, and the two people who will be pitching their projects. Listen in to see if this is something you might want to do for …",
+        "t": "Edgio Sponsors OWASP ModSecurity CRS to Further Advance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=42b44d173690a86aJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTQ4NA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcub3dhc3AuZW5jb2Rlcg&ntb=1",
+        "c": "https://www.f5.com › company › events › ...",
+        "d": "WebSubmit. Hindsight is 20/20. That holds true for the OWASP Top 10, the threat awareness report that details the most critical security risks to web applications each year. Traditional methods for security controls are lagging behind the need to deploy production-ready apps for continuous deployment. Join us in discussing the real-world impact of ...",
+        "t": "Maven Repository: org.owasp.encoder"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=e657a4f3b3dc679cJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTUwMw&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuYmVuemluZ2EuY29tL3ByZXNzcmVsZWFzZXMvMjMvMDIvYjMwNjg3OTk5L2VkZ2lvLXNwb25zb3JzLW93YXNwLW1vZHNlY3VyaXR5LWNycy10by1mdXJ0aGVyLWFkdmFuY2UtYXBwbGljYXRpb24tc2VjdXJpdHktZGV2ZWxvcG1lbnQ&ntb=1",
+        "c": "https://www.symbianize.ph › threads › owasp-top...",
+        "d": "WebFeb 2, 2023 · Leveraging the extensive knowledge and experience of the OWASP's open community contributors, the report is based on a consensus among security experts from around the world.What is broken authentication?Broken authentication is a widely used term reflecting a combination of vulnerabilities related to authentication and flawed …",
+        "t": "Edgio Sponsors OWASP ModSecurity CRS to Further Advance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=be855aab75b1712fJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTUyMg&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9zYW5ldC5zdC9ibG9ncy91ZGVteTEvb3dhc3BfdG9wX3dlYl9zZWN1cml0eV90cmFpbmluZ19fY3Jhc2hfY291cnNlXy40Mzc4NDk2Lmh0bWw&ntb=1",
+        "c": "https://stackoverflow.com › questions › 7531930...",
+        "d": "WebFeb 2, 2023 · I have configured modsecurity with nginx and included OWASP ModSecurity Core Rule Set (CRS) which is publicly available. It has a rule to prevent DoS attacks and the configuration file is \"REQUEST-912-DOS-PROTECTION.conf\". I tried with some DoS tools to check and it didn't block the traffic. I need to prevent DoS attacks on nginx.",
+        "t": "Owasp Top 10 Web Security Training || Crash Course"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=90e0d932df7c3f87JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTU0MA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cubWVldHVwLmNvbS9vd2FzcC1saXNib2EtY2hhcHRlci9ldmVudHMvMjkxMTUzOTgyLw&ntb=1",
+        "c": "https://www.linkedin.com › posts › gerald-beni...",
+        "d": "WebLooking forward to joining Ben Conrad to talk about “How HMRC secures digital services at scale” at OWASP 2023 Global AppSec Dublin sched.co/1Evbo #owasp…",
+        "t": "#02 Building Up, Tue, Feb 28, 2023, 6:00 PM | Meetup"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=efe8a4bb3aa05045JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTU1OA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qNVB1WUZDUzBJdw&ntb=1",
+        "c": "https://www.heise.de › news › iX-Workshop-...",
+        "d": "WebFeb 2, 2023 · Im iX - Workshop OWASP Top 10: Kritische Sicherheitsrisiken für Webanwendungen vermeiden erklärt und demonstriert Tobias Glemser, BSI-zertifizierter Penetrationstester und OWASP German Chapter ...",
+        "t": "Web Application Security and OWASP - Top 10 Security Flaws …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=e61d334ba3b26e63JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTU3Ng&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly92dXJibC5jb20vbGlzdGVuL293YXNwLXNoYXJrLXRhbmstY291bGQteW91LWNvbnZpbmNlLXNvbWVvbmUtdG8taW52ZXN0LWluLXlvdXItcHJvamVjdC1sOFd4RnBkMDVNLw&ntb=1",
+        "c": "https://www.silicon.co.uk › press-release › edg...",
+        "d": "WebFeb 2, 2023 · The OWASP CRS is a set of generic attack detection rules for use with ModSecurity or compatible WAFs such as waflz. CRS aims to protect web applications from a wide range of attacks, including ...",
+        "t": "OWASP Shark Tank - Could You Convince Someone to Invest in …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=7f99244b26cc7973JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTU5NA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuZjUuY29tL2NvbXBhbnkvZXZlbnRzL3dlYmluYXJzL2RlZmVuZC1hZ2FpbnN0LW93YXNwLXRvcC0xMC10aHJlYXRz&ntb=1",
+        "c": "https://www.urmconsulting.com › news › urm-awarded-...",
+        "d": "WebApr 24, 2023 · In November 2022, URM became one of the first companies in the UK to be awarded accreditation to the CREST OWASP Verification Standard (OVS ) to deliver both Level 1 and Level 2 Application Security Verification Standard (ASVS) and Mobile Application Security Verification Standard (MASVS) assessments for Web and mobile …",
+        "t": "Defend Against OWASP Top 10 Threats | F5"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=3c4d355ad5f0ffb0JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTYxMw&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuc3ltYmlhbml6ZS5waC90aHJlYWRzL293YXNwLXRvcC0xMC1hdXRoZW50aWNhdGlvbi12dWxuZXJhYmlsaXRpZXMtMjAyMy4yNTM1MzQv&ntb=1",
+        "c": "https://www.reddit.com › r › Hacking_Tutoria...",
+        "d": "WebIn this video walk-through, we covered the fourth part of OWASP Top 10 API Vulnerabilities including injection, improper documentation and lack of logging and monitoring. Video is here. comments sorted by Best Top New Controversial Q&A Add a Comment . More posts you may like.",
+        "t": "Owasp Top 10 - Authentication Vulnerabilities ~2023"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=7455364dae8e8943JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTYzNA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzUzMTkzMDYvZG9lcy1vd2FzcC1jcnMtcHJldmVudC1kb3MtYXR0YWNrcw&ntb=1",
+        "c": "https://vulners.com › openbugbounty › OBB...",
+        "d": "WebJan 18, 2023 · Following the coordinated and responsible vulnerability disclosure guidelines of the ISO 29147 standard, Open Bug Bounty has: a. verified the vulnerability and confirmed its existence; b. notified the website operator about its existence. Technical details of the vulnerability are currently hidden (\"On Hold\") to give the website operator/owner sufficient …",
+        "t": "nginx - Does OWASP CRS prevent DoS attacks - Stack Overflow"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=63e77d80400d12beJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTY1MQ&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3Bvc3RzL2dlcmFsZC1iZW5pc2Noa2UtOTgxMWI2NjNfb3dhc3AtMjAyMy1nbG9iYWwtYXBwc2VjLWR1Ymxpbi1ob3ctaG1yYy1hY3Rpdml0eS03MDIzNzk3ODEyNzU2NjY4NDE2LTFRdUg&ntb=1",
+        "c": "https://cyberrisk-countermeasures.info › 2020 › 11 › 19 › th...",
+        "d": "WebNov 19, 2020 · The OWASP TOP 10 – The Broken Access Controls. Access control enforces policy and rules so that a user cannot act outside of their intended permissions. The absence of controls or failures of such controls typically leads to unauthorized information disclosure, modification or destruction of data, or performing a business …",
+        "t": "Gerald Benischke on LinkedIn: OWASP 2023 Global AppSec …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=b1395d4b2bdd22baJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTY2OQ&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuaGVpc2UuZGUvbmV3cy9pWC1Xb3Jrc2hvcC1PV0FTUC1Ub3AtMTAtV2ViYW53ZW5kdW5nZW4tZWZmZWt0aXYtYWJzaWNoZXJuLTc0NzYwMjUuaHRtbA&ntb=1",
+        "c": "https://stackoverflow.com › questions › 7529742...",
+        "d": "WebJan 31, 2023 · CSP Alerts by OWASP even though CSP header is added. I am auto testing an ASP.NET web application for vulnerabilities using OWASP ZAP 2.12.0. It is raising some CSP alerts which I don't know why because CSP header is added in the Web.config. Need help to address raised alerts.",
+        "t": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=18d86ef3ad5b6028JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTY4OA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cuc2lsaWNvbi5jby51ay9wcmVzcy1yZWxlYXNlL2VkZ2lvLXNwb25zb3JzLW93YXNwLW1vZHNlY3VyaXR5LWNycy10by1mdXJ0aGVyLWFkdmFuY2UtYXBwbGljYXRpb24tc2VjdXJpdHktZGV2ZWxvcG1lbnQ&ntb=1",
+        "c": "https://vulners.com › openbugbounty › OBB...",
+        "d": "WebJan 15, 2023 · Following the coordinated and responsible vulnerability disclosure guidelines of the ISO 29147 standard, Open Bug Bounty has: a. verified the vulnerability and confirmed its existence; b. notified the website operator about its existence. Technical details of the vulnerability are currently hidden (\"On Hold\") to give the website operator/owner sufficient …",
+        "t": "Edgio Sponsors OWASP ModSecurity CRS to Further Advance …"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=cbae9156e9f8bfb3JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTcwNw&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cudXJtY29uc3VsdGluZy5jb20vbmV3cy91cm0tYXdhcmRlZC1hY2NyZWRpdGF0aW9uLXRvLXRoZS1jcmVzdC1vd2FzcC12ZXJpZmljYXRpb24tc3RhbmRhcmQ&ntb=1",
+        "c": "https://symbianize.ph › threads › owasp-api...",
+        "d": "WebLearn OWASP Top 10 2021 & OWASP Top 10 2017, Understand the most critical Security Vulnerabilities in Web Applications What you'll learn OWASP Top 10 2021 OWASP Top 10 2017 OWASP API Security Guidelines Practical tips and trics Real-life examples of vulnerabilities and prevention of vulnerabilities Secure Coding Practices with Java …",
+        "t": "URM Consulting - Risk Specialists | InfoSec | Business Continuity"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=502e2af30ca757b8JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTcyNQ&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0hhY2tpbmdfVHV0b3JpYWxzL2NvbW1lbnRzLzEwcW53MzIvb3dhc3BfdG9wXzEwX2FwaV92dWxuZXJhYmlsaXRpZXNfZXhwbGFpbmVkX3BhcnQv&ntb=1",
+        "c": "https://ru.wikipedia.org › wiki › OWASP",
+        "d": "WebПроекты. Проекты owasp — это набор связанных задач, имеющих определённый план развития и команду разработчиков.. Лидеры проектов owasp ответственны за определение образа, схемы и задач проекта, также они занимаются продвижением проекта и набором команды.",
+        "t": "OWASP Top 10 API Vulnerabilities Explained | Part Four | TryHackMe"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=db49f864b5c4b67dJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTc0NA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly92dWxuZXJzLmNvbS9vcGVuYnVnYm91bnR5L09CQjozMTU4MjA3&ntb=1",
+        "c": "https://blog.convisoappsec.com › owasp-e-sua-importa...",
+        "d": "WebOct 16, 2017 · A sigla OWASP é a abreviação para “Open Web Application Security Project”. Trata-se de uma entidade sem fins lucrativos e com reconhecimento internacional, atuando com foco na colaboração para o fortalecimento da segurança de softwares em todo o mundo. O OWASP mantém uma lista com as 10 falhas de segurança de aplicativos da …",
+        "t": "infoentrepreneurs.org Cross Site Scripting vulnerability OBB-3158207"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=d44452eb5f1f845bJmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTc2Mw&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9jeWJlcnJpc2stY291bnRlcm1lYXN1cmVzLmluZm8vMjAyMC8xMS8xOS90aGUtb3dhc3AtdG9wLTEwLXRoZS1icm9rZW4tYWNjZXNzLWNvbnRyb2xzLw&ntb=1",
+        "c": "https://www.cyberdrive.in.th › owasp-top-10-คืออะไ...",
+        "d": "WebOWASP Top 10 คือรายการความเสี่ยงด้านความปลอดภัยของเว็บแอปพลิเคชันที่สำคัญที่สุด และได้รับการออกแบบมาเพื่อช่วยให้องค์กรต่างๆ ...",
+        "t": "The OWASP TOP 10 – The Broken Access Controls – Cyber Risk ..."
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=799b3bf511d5f928JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTc4NA&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzUyOTc0MjAvY3NwLWFsZXJ0cy1ieS1vd2FzcC1ldmVuLXRob3VnaC1jc3AtaGVhZGVyLWlzLWFkZGVk&ntb=1",
+        "c": "https://pixel-brush.ru › video-uroki › 15437...",
+        "d": "WebIt evaluates if the system is susceptible to any known vulnerabilities, assigns severity levels to those vulnerabilities, and recommends remediation or mitigation, if and whenever needed.The OWASP Top 10 provides rankings of—and remediation guidance for—the top 10 most critical web application security risks.",
+        "t": "CSP Alerts by OWASP even though CSP header is added"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=7adb67985f79eed7JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTgwMw&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly92dWxuZXJzLmNvbS9vcGVuYnVnYm91bnR5L09CQjozMTUyODY2&ntb=1",
+        "c": "https://www.reddit.com › r › owasp_juiceshop",
+        "d": "WebThe Real Housewives of Atlanta The Bachelor Sister Wives 90 Day Fiance Wife Swap The Amazing Race Australia Married at First Sight The Real Housewives of Dallas My 600-lb Life Last Week Tonight with John Oliver",
+        "t": "php88.free.fr Cross Site Scripting vulnerability OBB-3152866"
+      },
+      {
+        "a": "https://www.bing.com/ck/a?!&&p=c89c62748d711456JmltdHM9MTY3NTkwMDgwMCZpZ3VpZD0yMDc5ZGYwMC0xNzgyLTZiZmQtMTM3OS1jZGIzMTY4NDZhODQmaW5zaWQ9NTgyMQ&ptn=3&hsh=3&fclid=2079df00-1782-6bfd-1379-cdb316846a84&u=a1aHR0cHM6Ly9zeW1iaWFuaXplLnBoL3RocmVhZHMvb3dhc3AtYXBpLXNlY3VyaXR5LXRvcC0xMC0yMDIxLXdpdGgtamF2YS1leGFtcGxlcy11ZGVteS4yNTI0NTEv&ntb=1",
+        "c": "https://www.meetup.com › owasp-vancouver-cha...",
+        "d": "Web/owasp-vancouver-chapter/events/290248487/",
+        "t": "OWASP API Security Top 10 2021 with Java Examples | Udemy"
+      },
+      {
+        "a": "https://owasp.org/",
+        "c": "https://owasp.org",
+        "d": "OWASP 2023 Global AppSec Dublin. Registration Open! Join us in Dublin Feb 13-16, for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference. Designed for private and public sector infosec professionals, the two-day OWASP conference equips developers, defenders, and ...",
+        "t": "OWASP Foundation, the Open Source Foundation for Application Security ..."
+      },
+      {
+        "a": "https://en.wikipedia.org/wiki/OWASP",
+        "c": "https://en.wikipedia.org › wiki › OWASP",
+        "d": "The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security. The OWASP provides free and open resources. It is led by a non-profit called The OWASP Foundation. The OWASP Top 10 - 2021 is the published result of recent research based on ...",
+        "t": "OWASP - Wikipedia"
+      },
+      {
+        "a": "https://www.fortinet.com/resources/cyberglossary/owasp",
+        "c": "https://www.fortinet.com › resources › cybergl...",
+        "d": "The OWASP Top 10 is a report, or \"awareness document,\" that outlines security concerns around web application security. It is regularly updated to ensure it constantly features the 10 most critical risks facing organizations. OWASP recommends all companies to incorporate the document's findings into their corporate processes to ensure ...",
+        "t": "What Is OWASP? What Is the OWASP Top 10? | Fortinet"
+      },
+      {
+        "a": "https://mas.owasp.org/",
+        "c": "https://mas.owasp.org",
+        "d": "The OWASP Mobile Application Security (MAS) flagship project provides a security standard for mobile apps (OWASP MASVS) and a comprehensive testing guide (OWASP MASTG) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and ...",
+        "t": "Home - OWASP Mobile Application Security"
+      },
+      {
+        "a": "https://www.imperva.com/learn/application-security/owasp-top-10/",
+        "c": "https://www.imperva.com › learn › application...",
+        "d": "OWASP Top 10 is a research project that offers rankings of and remediation advice for the top 10 most serious web application security dangers. The report is founded on an agreement between security experts from around the globe. The risks are graded according to the severity of the vulnerabilities, the frequency of isolated security defects ...",
+        "t": "What is OWASP | What are OWASP Top 10 Vulnerabilities | Imperva"
+      },
+      {
+        "a": "https://dev.owasp.org/projects/",
+        "c": "https://dev.owasp.org › projects",
+        "d": "OWASP Security Shepherd is a web and mobile application security training platform. Security Shepherd has been designed to foster and improve security awareness among a varied skill-set demographic. The aim of this project is to take AppSec novices or experienced engineers and sharpen their penetration testing skillset to security expert status.",
+        "t": "Projects | OWASP"
+      },
+      {
+        "a": "https://github.com/OWASP",
+        "c": "https://github.com › OWASP",
+        "d": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the contr….",
+        "t": "OWASP · GitHub"
+      },
+      {
+        "a": "https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Headers_Cheat_Sheet.html",
+        "c": "https://cheatsheetseries.owasp.org › cheatsheets › HTTP_...",
+        "d": "HTTP Headers are a great booster for web security with easy implementation. Proper HTTP response headers can help prevent security vulnerabilities like Cross-Site Scripting, Clickjacking, Information disclosure and more. In this cheat sheet, we will review all security-related HTTP headers, recommended configurations, and reference other ...",
+        "t": "HTTP Headers - OWASP Cheat Sheet Series"
+      },
+      {
+        "a": "https://mas.owasp.org/MASTG/",
+        "c": "https://mas.owasp.org › MASTG",
+        "d": "OWASP MASTG¶. GitHub Repo. Previously known as OWASP MSTG (Mobile Security Testing Guide) The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the OWASP MASVS.. Download the MASTG",
+        "t": "OWASP MASTG - OWASP Mobile Application Security"
+      },
+      {
+        "a": "https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html",
+        "c": "https://cheatsheetseries.owasp.org › cheatsheets › Authe...",
+        "d": "Authentication is the process of verifying that an individual, entity or website is whom it claims to be. Authentication in the context of web applications is commonly performed by submitting a username or ID and one or more items of private information that only a given user should know. Session Management is a process by which a server ...",
+        "t": "Authentication - OWASP Cheat Sheet Series"
+      },
+      {
+        "a": "https://learn.microsoft.com/en-us/azure/api-management/mitigate-owasp-api-threats",
+        "c": "https://learn.microsoft.com › en-us › azure › api...",
+        "d": "The Open Web Application Security Project ( OWASP) Foundation works to improve software security through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences. The OWASP API Security Project focuses on strategies and solutions to understand and ...",
+        "t": "Mitigate OWASP API security top 10 in Azure API Management"
+      },
+      {
+        "a": "https://www.techtarget.com/searchsoftwarequality/definition/OWASP",
+        "c": "https://www.techtarget.com › searchsoftwarequali...",
+        "d": "The OWASP Top 10 is a list of the 10 most important security risks affecting web applications. It is revised every few years to reflect industry and risk changes. The list has descriptions of each category of application security risks and methods to remediate them. OWASP compiles the list from community surveys, contributed data about common ...",
+        "t": "What is OWASP? What is the OWASP Top 10? All You Need to Know"
+      },
+      {
+        "a": "https://www.synopsys.com/glossary/what-is-owasp-top-10.html",
+        "c": "https://www.synopsys.com › glossary › what-is-...",
+        "d": "The OWASP Top 10 provides rankings of—and remediation guidance for—the top 10 most critical web application security risks. Leveraging the extensive knowledge and experience of the OWASP's open community contributors, the report is based on a consensus among security experts from around the world. Risks are ranked according to the ...",
+        "t": "What Is the OWASP Top 10 and How Does It Work? | Synopsys"
+      },
+      {
+        "a": "https://www.sonarsource.com/solutions/security/owasp/",
+        "c": "https://www.sonarsource.com › solutions › securit...",
+        "d": "Dedicated reports track project security against the OWASP Top 10 and CWE Top 25 standards. The Sonar Security Report facilitates communication by categorizing vulnerabilities in terms developers understand. Track compliance at Project or Portfolio level and differentiate Vulnerability fixes from Security Hotspot Review.",
+        "t": "SonarQube covers the OWASP Top 10 | SonarQube | Sonar"
+      },
+      {
+        "a": "https://www.geeksforgeeks.org/owasp-top-10-vulnerabilities-and-preventions/",
+        "c": "https://www.geeksforgeeks.org › owasp-top-10-vulner...",
+        "d": "The OWASP Top 10 Web Application Security Risks was most recently updated in 2017 and it basically provides guidance to developers and security professionals on the most critical vulnerabilities that are most commonly found in web applications, and are also easy to exploit. OWASP's top 10 is considered as an essential guide to web application ...",
+        "t": "OWASP Top 10 Vulnerabilities And Preventions - GeeksforGeeks"
+      },
+      {
+        "a": "https://www.veracode.com/security/owasp-top-10",
+        "c": "https://www.veracode.com › security › owasp-to",
+        "d": "OWASP, or the Open Web Application Security Project, is a nonprofit organization focused on software security. Their projects include a number of open-source software development programs and toolkits, local chapters and conferences, among other things. One of their projects is the maintenance of the OWASP Top 10, a list of the top 10 security ...",
+        "t": "OWASP Top 10 Vulnerabilities | Veracode"
+      },
+      {
+        "a": "https://learn.microsoft.com/en-us/training/modules/owasp-and-dynamic-analyzers/",
+        "c": "https://learn.microsoft.com › en-us › training › ...",
+        "d": "This module is part of these learning paths. AZ-400: Implement security and validate code bases for compliance. Introduction 1 min. Plan Implement OWASP Secure Coding Practices 1 min. Explore OWASP ZAP penetration test 2 min. Explore OWASP ZAP results and bugs 2 min. Knowledge check 4 min. Summary 1 min.",
+        "t": "OWASP and Dynamic Analyzers - Training | Microsoft Learn"
+      },
+      {
+        "a": "https://www.ntt.com/bizon/glossary/e-o/owasp.html",
+        "c": "https://www.ntt.com › bizon › glossary › ...",
+        "d": "ドコモビジネス・NTTコミュニケーションズ。このページでは、「OWASP」について解説しています。ITトレンド用語では、意外と知らないIT用語を中心に解説します。用語に関連するITソリューションも紹介中です!",
+        "t": "Owaspとは？意味・定義 | Itトレンド用語 | Nttコミュニケーションズ"
+      },
+      {
+        "a": "http://www.owasptopten.org/",
+        "c": "http://www.owasptopten.org",
+        "d": "The OWASP Top Ten is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications. It was started in 2003 to help organizations and developer with a starting point for secure development. Over the years it's grown into a pseudo standard that ...",
+        "t": "OWASP Top Ten"
+      },
+      {
+        "a": "https://mindmajix.com/what-is-owasp",
+        "c": "https://mindmajix.com › what-is-owasp",
+        "d": "The Open Web Application Security Project is known by the acronym OWASP. Although the name only refers to security for web apps, OWASP's focus is not just on web applications. A list of the top 10 assaults for various technologies, including web applications, the cloud, mobile security, etc., has been compiled by OWASP under the moniker OWASP ...",
+        "t": "What is OWASP | OWASP Tutorial for Beginners"
+      },
+      {
+        "a": "https://snyk.io/learn/owasp-top-10-vulnerabilities/",
+        "c": "https://snyk.io › learn › owasp-top-1...",
+        "d": "OWASP has recently shared the 2021 OWASP Top 10 where there are three new categories, four categories with naming and scoping changes, and some consolidation within the Top 10. The OWASP Top 10 is largely intended to raise awareness. However, since its debut in 2003, enterprises have used it as a de facto industry AppSec standard.",
+        "t": "OWASP Top 10 | OWASP Top 10 Vulnerabilities 2021 | Snyk"
+      },
+      {
+        "a": "https://www.mend.io/resources/blog/owasp-dependency-check/",
+        "c": "https://www.mend.io › resources › blog › ...",
+        "d": "The OWASP Dependency-Check uses a variety of analyzers to build a list of Common Platform Enumeration (CPE) entries. CPE is a structured naming scheme, which includes a method for checking names against a system. The analyzer checks a combination of groupId, artifactId, and version (sometimes referred to as GAV) in the Maven Project Object ...",
+        "t": "OWASP Dependency Check: How Does It Work? | Mend"
+      },
+      {
+        "a": "https://www.zaproxy.org/download/",
+        "c": "https://www.zaproxy.org › download",
+        "d": "112 MB. Download. Most of the files contain the default set of functionality, and you can add more functionality at any time via the ZAP Marketplace. The core package contains the minimal set of functionality you need to get you started. The Windows and Linux versions require Java 11 or higher to run.",
+        "t": "OWASP ZAP - Download"
+      },
+      {
+        "a": "https://www.geeksforgeeks.org/what-is-owasp-and-its-major-risks/",
+        "c": "https://www.geeksforgeeks.org › what-is-owasp-and-i...",
+        "d": "OWASP stands for Open Web Application Security Project. It is an international non-profit organization that dedicates itself to the security of web applications. The core principles of OWASP includes their materials to be available freely and easily accessible on their website. Their motive is to make it possible for any user to improve their ...",
+        "t": "What is OWASP and its Major Risks? - GeeksforGeeks"
+      },
+      {
+        "a": "https://www.meetup.com/OWASP-Delhi-NCR-Chapter/",
+        "c": "https://www.meetup.com › OWASP-Delhi-NCR-Cha...",
+        "d": "OWASP Delhi / OWASP SeaSides CTF Hosted by Security Innovation. Sat, May 9, 6:00 PM GMT+5:30. OWASP Delhi / OWASP SeaSides CTF Hosted by Security Innovation. Online event. Sandeep S. Vaibhav G. Eshan; 6 attendees; OWASP Delhi January Meetup. Sat, Jan 25, 11:00 AM GMT+5:30. OWASP Delhi January Meetup. Bharti Airtel Ltd Airtel Center.",
+        "t": "OWASP Delhi Chapter (Delhi, India) | Meetup"
+      },
+      {
+        "a": "https://www.reflectiz.com/blog/owasp-top-ten-2022/",
+        "c": "https://www.reflectiz.com › blog › owasp-top-te...",
+        "d": "The actual OWASP Top Ten document is primarily written for developers, which means it can get heavy on technical details and muddy the waters for strategic decision-making. This blog aims to review the OWASP Top 10 focusing on what each one means in practical terms, the potential business consequences, and actionable mitigation tips.",
+        "t": "OWASP Top Ten for 2022 - A Complete Review"
+      },
+      {
+        "a": "https://www.zaproxy.org/getting-started/",
+        "c": "https://www.zaproxy.org › getting-started",
+        "d": "Zed Attack Proxy (ZAP) is a free, open-source penetration testing tool being maintained under the umbrella of the Open Web Application Security Project (OWASP). ZAP is designed specifically for testing web applications and is both flexible and extensible. At its core, ZAP is what is known as a \"man-in-the-middle proxy.\".",
+        "t": "OWASP ZAP - Getting Started"
+      },
+      {
+        "a": "https://www.veracode.com/blog/intro-appsec/start-owasp-true-story",
+        "c": "https://www.veracode.com › blog › intro-appsec...",
+        "d": "The Start of OWASP - A True Story. By Mark Curphey. tg. fb. tw. li. On January 15, 2002, at 5:22 p.m. PST, Bill Gates sent a memo —subject: \"Trustworthy computing\"—to everyone at Microsoft and its subsidiaries. \"Trustworthy computing,\" he wrote, \"is the highest priority for all the work we are doing.\". It launched the SDL ...",
+        "t": "The Start of OWASP - A True Story | Veracode"
+      },
+      {
+        "a": "https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html",
+        "c": "https://cheatsheetseries.owasp.org › cheatsheets › REST_...",
+        "d": "HTTPS Secure REST services must only provide HTTPS endpoints. This protects authentication credentials in transit, for example passwords, API keys or JSON Web Tokens. It also allows clients to authenticate the service and guarantees integrity of the transmitted data. See the Transport Layer Protection Cheat Sheet for additional information. ",
+        "t": "cheatsheetseries.owasp.org › cheatsheets › RESTREST Security - OWASP Cheat Sheet Series"
+      },
+      {
+        "a": "https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html",
+        "c": "https://cheatsheetseries.owasp.org › cheatsheets › File_...",
+        "d": "The user should be a registered user, or an identifiable user, in order to set restrictions and limitations for their upload capabilities Authorization level The user should have appropriate permissions to access or modify the files Filesystem Permissions Set the files permissions on the principle of least privilege. ",
+        "t": "cheatsheetseries.owasp.org › cheatsheets › FileFile Upload - OWASP Cheat Sheet Series"
+      },
+      {
+        "a": "https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html",
+        "c": "https://cheatsheetseries.owasp.org › cheatsheets › Sessi...",
+        "d": "Once an authenticated session has been established, the session ID (or token) is temporarily equivalent to the strongest authentication method used by the application, such as username and password, passphrases, one-time passwords (OTP), client-based digital certificates, smartcards, or biometrics (such as fingerprint or eye retina). ",
+        "t": "cheatsheetseries.owasp.org › cheatsheets › SessionSession Management - OWASP Cheat Sheet Series"
+      },
+      {
+        "a": "https://www.microfocus.com/en-us/what-is/owasp-top-10",
+        "c": "https://www.microfocus.com › en-us › what-is › o...",
+        "d": "The Open Web Application Security Project (OWASP) is an open source application security community with the goal to improve the security of software. The OWASP Top 10 is an industry standard guideline that lists the most critical application security risks to help developers better secure the applications they design and deploy. ",
+        "t": "www.microfocus.com › en-us › what-isWhat is OWASP Top 10? | Micro Focus"
+      },
+      {
+        "a": "https://www.immuniweb.com/resources/owasp-top-ten/",
+        "c": "https://www.immuniweb.com › resources › owasp-t...",
+        "d": "OWASP (Open Web Application Security Project) is an open source project. Its community includes large companies, variety of different organizations and just interested persons from the whole globe. This group of enthusiasts collaborate to develop free articles, tutorials, papers, technologies, and instruments. ",
+        "t": "www.immuniweb.com › resources › owasp-top-tenOWASP Top 10 Security Vulnerabilities in 2021 | ImmuniWeb"
+      },
+      {
+        "a": "https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html",
+        "c": "https://cheatsheetseries.owasp.org › cheatsheets › Unval...",
+        "d": "Unvalidated Redirects and Forwards - OWASP Cheat Sheet Series Unvalidated Redirects and Forwards Cheat Sheet Introduction Unvalidated redirects and forwards are possible when a web application accepts untrusted input that could cause the web application to redirect the request to a URL contained within untrusted input. ",
+        "t": "cheatsheetseries.owasp.org › cheatsheets › UnUnvalidated Redirects and Forwards Cheat Sheet - OWASP"
+      },
+      {
+        "a": "https://finance.yahoo.com/news/edgio-sponsors-owasp-modsecurity-crs-140000563.html?fr=sycsrp_catchall",
+        "c": "https://finance.yahoo.com › news › edgio-sponso...",
+        "d": "Feb 2, 2023 ·  PHOENIX, February 02, 2023 -- ( BUSINESS WIRE )--Edgio, Inc. (Nasdaq: EGIO ), the platform of choice for speed, security and simplicity at the edge, today announced that it is now a Gold Sponsor of... ",
+        "t": "finance.yahoo.com › news › edgio-sponsors-owasp-modEdgio Sponsors OWASP ModSecurity CRS to Further Advance ..."
+      },
+      {
+        "a": "http://www.owasp.org.cn/",
+        "c": "http://www.owasp.org.cn",
+        "d": "No description provided",
+        "t": "OWASP"
+      },
+      {
+        "a": "https://www.owasp.org",
+        "c": "https://www.owasp.org",
+        "d": "No description provided",
+        "t": "OWASP"
+      }
+    ],
+    "running_errors": []
+  }
+}
